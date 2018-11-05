@@ -1,1 +1,1 @@
-module github.com/lavren1974/testmod
+module github.com/lavren1974/testmod/v2
